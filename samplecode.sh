@@ -1,2 +1,2 @@
-echo"welcome to the demo project"
-echo "this is my project"
+echo"welcome to the demo projet"
+echo"this is my first project"
